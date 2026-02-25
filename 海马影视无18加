@@ -6,7 +6,7 @@
     "sites": [
         {
         "key":"爱奇艺弹幕",
-        "name":"🦄爱奇艺视频｜追剧",
+        "name":"🦄爱奇艺视频｜追剧 TG @usfgrjk",
         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
         "type":3,
         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
