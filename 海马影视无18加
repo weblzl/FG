@@ -591,8 +591,12 @@
             "name": "🦄环球斯玛特",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://gc.gt.tc/c/%E7%8E%AF%E7%90%83%E6%96%AF%E7%8E%9B%E7%89%B9.txt"
-        }, 
+            "url": "{
+            "name": "🦄环球斯玛特",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://gc.gt.tc/c/环球斯玛特.txt"
+        },
         {
             "name": "🦄Gather",
             "type": 0,
